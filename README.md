@@ -2,115 +2,126 @@
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/juan-damico" width="180" style="border-radius:50%;" alt="Juan D'Amico"/>
+<img src="https://avatars.githubusercontent.com/juan-damico" width="110" style="border-radius:50%;" alt="Juan D'Amico"/>
 
 <br/><br/>
 
-# Juan Nicolas D'Amico
+# JUAN NICOLÁS D'AMICO
+
+<sub>ECONOMIST &nbsp;·&nbsp; RESEARCHER &nbsp;·&nbsp; EDUCATOR</sub>
 
 <br/>
 
-`Economist` &nbsp; `Researcher` &nbsp; `Educator`
-
-<br/>
-
-| | |
-|:---|:---|
-| B.Sc. Economics | University of Buenos Aires (UBA) |
-| Masters in Business Economics | Wilfrid Laurier University |
-| Masters in Economics | University of Waterloo |
-
-<br/>
-
-*"Forecasting is not about predicting the future — it's about being less wrong about it."*
-
-<br/>
-
-[![Website](https://img.shields.io/badge/forecastingeconomics.com-2c2c2c?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.forecastingeconomics.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ForecastingEconomics)
+[![Website](https://img.shields.io/badge/forecastingeconomics.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.forecastingeconomics.com)
+[![YouTube](https://img.shields.io/badge/YouTube-CC0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ForecastingEconomics)
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=cuTdiWkAAAAJ&hl=en)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juan.damico)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=cuTdiWkAAAAJ&hl=en)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/introductory-course-to-dsge-models-in-matlab-dynare/?instructorPreviewMode=guest#instructor-1)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.damico@forecastingeconomics.com)
 
-</div>
+<br/>
 
----
-
-## About
-
-I am an economist specializing in **macroeconomic analysis**, **forecasting**, and **DSGE modeling**. With graduate degrees from Wilfrid Laurier University and the University of Waterloo, I have extensive experience applying econometric and statistical methods to empirical macroeconomic questions.
-
-My work combines rigorous economic theory with applied quantitative tools — including **EViews**, **Stata**, **Python**, **R**, and **MATLAB/Dynare** — across forecasting, structural modeling, and empirical analysis. I am also deeply committed to economic education: as an online instructor, YouTuber, and writer, I aim to make complex macroeconomic concepts clear and accessible.
-
-I currently work at **Statistics Canada** as an Economist. I also have experience in the private financial sector, having worked at **Sun Life Financial Services** for over four years. In addition, I have extensive teaching experience, having held multiple teaching assistant roles at the **University of Buenos Aires**, **Wilfrid Laurier University**, and the **University of Waterloo**.
-
----
-
-
-### Research Interests
-
-```
-  Macroeconomic Forecasting        Time Series Econometrics
-  DSGE Structural Modelling        Empirical Macroeconomics
-  Macroeconometric Analysis        Economic Policy Analysis
-```
-
----
-
-### Tools & Methods
-
-<div align="center">
-
-| Econometric Software | Programming | Other |
-|:---:|:---:|:---:|
-| EViews · Stata | Python · R | LaTeX · Git |
-| MATLAB · Dynare | | |
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 </div>
-
----
-
-**[EconLab with the Experts](https://github.com/juan-damico/forecasting-economics/tree/main/EconLab-with-the-Experts)** — Webinar Series
-> A live seminar series bringing together PhD economists, researchers, and practitioners to bridge the gap between academic theory and real-world applied economics. Each session features hands-on demonstrations using actual data and methods — the kind rarely taught in university classrooms.
- 
----
-
-### GitHub Activity
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=juan-damico&show_icons=true&hide_border=true&title_color=2c2c2c&icon_color=2c2c2c&text_color=2c2c2c&bg_color=fafafa" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-damico&layout=compact&hide_border=true&title_color=2c2c2c&text_color=2c2c2c&bg_color=fafafa" />
-
-</div>
-
----
-
-### Featured Work
-
-**[Introductory Course to DSGE Models in MATLAB/Dynare](https://www.udemy.com/course/introductory-course-to-dsge-models-in-matlab-dynare/?instructorPreviewMode=guest#instructor-1)** — Udemy
-> A structured course covering the theory and hands-on implementation of Dynamic Stochastic General Equilibrium models.
-
-**[Forecasting Economics](https://www.youtube.com/@ForecastingEconomics)** — YouTube
-> Applied econometrics and macroeconomic forecasting tutorials for students and professionals.
-
-**[Research & Publications](https://scholar.google.com/citations?user=cuTdiWkAAAAJ&hl=en)** — Google Scholar
-> Peer-reviewed work and academic citations in macroeconomics and forecasting.
-
-**[forecasting-economics](https://github.com/juan-damico/forecasting-economics)** — GitHub
-> Applied econometrics, forecasting code, and the EconLab with the Experts webinar series.
-
----
-
-<div align="center">
-
-<sub>Open to collaborations in macroeconomic research, forecasting, and educational content.</sub>
 
 <br/>
 
-<sub>juan.damico@forecastingeconomics.com · forecastingeconomics.com</sub>
+## EDUCATION
+
+| Degree | Institution |
+|:---|:---|
+| B.Sc. Economics | University of Buenos Aires (UBA) |
+| M.Sc. Business Economics | Wilfrid Laurier University |
+| M.Sc. Economics | University of Waterloo |
+
+<br/>
+
+---
+
+<br/>
+
+## ABOUT
+
+I am an economist specializing in **macroeconomic analysis**, **forecasting**, and **DSGE modeling**. With graduate degrees from Wilfrid Laurier University and the University of Waterloo, I apply econometric and statistical methods to empirical macroeconomic questions across research, policy, and education.
+
+My work combines rigorous economic theory with applied quantitative tools — **EViews**, **Stata**, **Python**, **R**, and **MATLAB/Dynare** — spanning forecasting, structural modeling, and empirical analysis.
+
+I currently work as an Economist at **Statistics Canada**. Previously, I spent over four years at **Sun Life Financial Services** in the private financial sector. I have held multiple teaching assistant roles at the **University of Buenos Aires**, **Wilfrid Laurier University**, and the **University of Waterloo**.
+
+<br/>
+
+---
+
+<br/>
+
+## RESEARCH INTERESTS
+
+```
+Macroeconomic Forecasting      Time Series Econometrics
+DSGE Structural Modelling      Empirical Macroeconomics
+Macroeconometric Analysis      Economic Policy Analysis
+```
+
+<br/>
+
+---
+
+<br/>
+
+## TOOLS & METHODS
+
+| Econometric Software | Programming | Other |
+|:---:|:---:|:---:|
+| EViews · Stata · MATLAB · Dynare | Python · R | LaTeX · Git |
+
+<br/>
+
+---
+
+<br/>
+
+## ECONLAB WITH THE EXPERTS
+
+**[EconLab with the Experts](https://github.com/juan-damico/forecasting-economics/tree/main/EconLab-with-the-Experts)** is a seminar series produced by Forecasting Economics, bringing together PhD economists, researchers, and practitioners to bridge the gap between academic theory and real-world applied economics.
+
+Each episode features a researcher presenting a complete applied workflow — from data and methodology through implementation and reproducible results.
+
+<br/>
+
+---
+
+<br/>
+
+## LINKS
+
+**[forecastingeconomics.com](https://www.forecastingeconomics.com)** — Website
+
+**[Forecasting Economics](https://www.youtube.com/@ForecastingEconomics)** — YouTube · Applied econometrics and macroeconomic forecasting
+
+**[Introductory Course to DSGE Models in MATLAB/Dynare](https://www.udemy.com/course/introductory-course-to-dsge-models-in-matlab-dynare/?instructorPreviewMode=guest#instructor-1)** — Udemy
+
+**[Research & Publications](https://scholar.google.com/citations?user=cuTdiWkAAAAJ&hl=en)** — Google Scholar
+
+**[forecasting-economics](https://github.com/juan-damico/forecasting-economics)** — GitHub Repository
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/juan-damico/forecasting-economics/main/assets/Large-2.png" width="140" alt="Forecasting Economics"/>
+
+<br/><br/>
+
+<sub>Open to collaborations in macroeconomic research, forecasting, and educational content</sub>
+
+<br/>
+
+<sub>juan.damico@forecastingeconomics.com &nbsp;·&nbsp; forecastingeconomics.com</sub>
 
 <br/><br/>
 
