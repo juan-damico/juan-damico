@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/juan-damico" width="110" style="border-radius:50%;" alt="Juan D'Amico"/>
+<img src="https://avatars.githubusercontent.com/juan-damico" width="300" style="border-radius:50%;" alt="Juan D'Amico"/>
 
 <br/><br/>
 
