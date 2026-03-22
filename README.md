@@ -3,7 +3,7 @@
 
 # Juan D'Amico
 
-### Economist · Macroeconomic Forecasting · DSGE Models
+### Economist · Macroeconomic Forecasting · Applied Economics
 
 *M.Sc. Economics — University of Waterloo · M.Sc. Business Economics — Wilfrid Laurier University*
 
