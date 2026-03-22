@@ -1,101 +1,137 @@
-<!-- Header -->
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/juan-damico" width="150" style="border-radius: 50%;" alt="Juan D'Amico"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:0d1117&height=120&section=header"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f0f4f0,50:c8dfc8,100:f0f4f0&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:0d1117&height=120&section=header" width="100%"/>
+</picture>
 
-# Juan D'Amico
+<img src="https://avatars.githubusercontent.com/juan-damico" width="110" style="border-radius:50%; border: 3px solid #2ea043; margin-top: -20px;" alt="Juan D'Amico"/>
 
-### Economist · Macroeconomic Forecasting · DSGE Models
+<br/>
 
-*M.Sc. Economics — University of Waterloo · M.Sc. Business Economics — Wilfrid Laurier University*
+```
+╔══════════════════════════════════════════════════════╗
+║         J U A N   N I C O L Á S   D ' A M I C O     ║
+║                                                      ║
+║      Economist  ·  Researcher  ·  Educator           ║
+╚══════════════════════════════════════════════════════╝
+```
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=15&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Macroeconomic+Forecasting+%7C+DSGE+Models;M.Sc.+Economics+%E2%80%94+University+of+Waterloo;M.Sc.+Business+Economics+%E2%80%94+Wilfrid+Laurier;EViews+%7C+Stata+%7C+Python+%7C+R+%7C+MATLAB+%2F+Dynare" alt="Typing SVG" />
 
-[![Website](https://img.shields.io/badge/Website-forecastingeconomics.com-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.forecastingeconomics.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Forecasting%20Economics-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ForecastingEconomics)
-[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juan.damico)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=cuTdiWkAAAAJ&hl=en)
-[![Udemy](https://img.shields.io/badge/Udemy-DSGE%20Course-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/introductory-course-to-dsge-models-in-matlab-dynare/?instructorPreviewMode=guest#instructor-1)
-[![Email](https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:juan.damico@forecastingeconomics.com)
+<br/>
+
+[![Website](https://img.shields.io/badge/◈_forecastingeconomics.com-0d1117?style=for-the-badge&logoColor=2ea043)](https://www.forecastingeconomics.com)
+[![YouTube](https://img.shields.io/badge/▶_YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@ForecastingEconomics)
+[![Medium](https://img.shields.io/badge/✍_Medium-0d1117?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juan.damico)
+[![Scholar](https://img.shields.io/badge/◎_Google_Scholar-0d1117?style=for-the-badge&logo=googlescholar&logoColor=4285F4)](https://scholar.google.com/citations?user=cuTdiWkAAAAJ&hl=en)
+[![Udemy](https://img.shields.io/badge/◉_Udemy_Course-0d1117?style=for-the-badge&logo=udemy&logoColor=A435F0)](https://www.udemy.com/course/introductory-course-to-dsge-models-in-matlab-dynare/?instructorPreviewMode=guest#instructor-1)
+[![Email](https://img.shields.io/badge/◈_Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:juan.damico@forecastingeconomics.com)
+
+</div>
+
+<br/>
+
+---
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## About
+
+Economist with graduate degrees from the **University of Waterloo** and **Wilfrid Laurier University**. My work sits at the intersection of macroeconomic theory, structural modelling, and applied empirical analysis.
+
+I build DSGE models, run macroeconometric forecasts, and develop educational content that makes rigorous economics accessible — through online courses, YouTube, and academic writing.
+
+> *Driven by the belief that good models tell the story the data is trying to say.*
+
+</td>
+<td width="45%" valign="top">
+
+## Expertise
+
+```yaml
+macroeconomics:
+  - Forecasting & Time Series (VAR/VECM)
+  - DSGE Structural Modelling
+  - Macroeconometric Analysis
+
+tools:
+  - EViews · Stata · MATLAB/Dynare
+  - Python · R · LaTeX
+
+communication:
+  - Economic Reports
+  - Academic Research
+  - Online Education (1000+ students)
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1117)
+![R](https://img.shields.io/badge/R-0d1117?style=flat-square&logo=r&logoColor=276DC3&labelColor=0d1117)
+![MATLAB](https://img.shields.io/badge/MATLAB-0d1117?style=flat-square&logo=mathworks&logoColor=0076A8&labelColor=0d1117)
+![LaTeX](https://img.shields.io/badge/LaTeX-0d1117?style=flat-square&logo=latex&logoColor=008080&labelColor=0d1117)
+![Stata](https://img.shields.io/badge/Stata-0d1117?style=flat-square&logoColor=white&labelColor=0d1117)
+![EViews](https://img.shields.io/badge/EViews-0d1117?style=flat-square&logoColor=white&labelColor=0d1117)
+![Dynare](https://img.shields.io/badge/Dynare-0d1117?style=flat-square&logoColor=white&labelColor=0d1117)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032&labelColor=0d1117)
 
 </div>
 
 ---
 
-## About Me
-
-I am an economist with graduate degrees from the **University of Waterloo** and **Wilfrid Laurier University**, specializing in macroeconomic analysis, forecasting, and DSGE modelling. My work sits at the intersection of economic theory and applied quantitative methods.
-
-I'm passionate about making complex economic concepts accessible — through online courses, articles, and educational content on macroeconometrics and structural modelling.
-
----
-
-## 🔍 Areas of Expertise
-
-- 📈 **Macroeconomic Forecasting** — time series analysis, VAR/VECM models, EViews, Stata
-- 🧮 **DSGE Models** — structural modelling in MATLAB/Dynare
-- 📊 **Empirical Analysis** — econometrics, regression analysis, panel data
-- 🐍 **Data & Programming** — Python, R for macroeconometric research
-- 📝 **Economic Reports & Presentations** — policy analysis, research communication
-
----
-
-## 🛠️ Tools & Technologies
+## GitHub Stats
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-1A1A6C?style=flat-square&logoColor=white)
-![EViews](https://img.shields.io/badge/EViews-003366?style=flat-square&logoColor=white)
-![Dynare](https://img.shields.io/badge/Dynare-FF6B35?style=flat-square&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=juan-damico&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&ring_color=2ea043" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-damico&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juan-damico&bg_color=0d1117&color=2ea043&line=2ea043&point=ffffff&area=true&hide_border=true" width="95%" />
 
 </div>
 
 ---
 
-## 📚 Featured Content
+## Featured Work
 
-### 🎓 Udemy Course
-**[Introductory Course to DSGE Models in MATLAB/Dynare](https://www.udemy.com/course/introductory-course-to-dsge-models-in-matlab-dynare/?instructorPreviewMode=guest#instructor-1)**
-> A hands-on course covering the theory and implementation of Dynamic Stochastic General Equilibrium models using MATLAB and Dynare.
+<div align="center">
 
-### 📺 YouTube — Forecasting Economics
-> Educational videos on macroeconomic forecasting, econometrics, and applied economic modelling.
->
-> ▶️ [youtube.com/@ForecastingEconomics](https://www.youtube.com/@ForecastingEconomics)
+| | Project | Description |
+|---|---|---|
+| 🎓 | **[DSGE Models in MATLAB/Dynare — Udemy](https://www.udemy.com/course/introductory-course-to-dsge-models-in-matlab-dynare/?instructorPreviewMode=guest#instructor-1)** | Hands-on course on Dynamic Stochastic General Equilibrium modelling |
+| 📺 | **[Forecasting Economics — YouTube](https://www.youtube.com/@ForecastingEconomics)** | Applied econometrics & macroeconomic forecasting tutorials |
+| ✍️ | **[Articles — Medium](https://medium.com/@juan.damico)** | Written analysis on forecasting, modelling & economic methodology |
+| 🔬 | **[Research — Google Scholar](https://scholar.google.com/citations?user=cuTdiWkAAAAJ&hl=en)** | Academic publications & citations |
+| 📦 | **[forecasting-economics](https://github.com/juan-damico/forecasting-economics)** | Applied econometrics & EconLab webinar series |
 
-### ✍️ Medium — Articles
-> Written pieces on economics, forecasting methods, and quantitative analysis.
->
-> 📖 [medium.com/@juan.damico](https://medium.com/@juan.damico)
-
-### 🎓 Google Scholar
-> Academic publications and research citations.
->
-> 📖 [Juan Nicolás D'Amico — Google Scholar](https://scholar.google.com/citations?user=cuTdiWkAAAAJ&hl=en)
-
----
-
-## 📂 Featured Repository
-
-### [`forecasting-economics`](https://github.com/juan-damico/forecasting-economics)
-Applied econometrics, forecasting, and EconLab with the Experts webinar series.
-
----
-
-## 📬 Get in Touch
-
-- 🌐 **Website:** [forecastingeconomics.com](https://www.forecastingeconomics.com)
-- 📧 **Email:** [juan.damico@forecastingeconomics.com](mailto:juan.damico@forecastingeconomics.com)
-- 📺 **YouTube:** [Forecasting Economics](https://www.youtube.com/@ForecastingEconomics)
-- ✍️ **Medium:** [Juan D'Amico](https://medium.com/@juan.damico)
-- 🎓 **Google Scholar:** [Juan Nicolás D'Amico](https://scholar.google.com/citations?user=cuTdiWkAAAAJ&hl=en)
+</div>
 
 ---
 
 <div align="center">
-  <i>Open to collaborations in macroeconomic research, forecasting projects, and educational content.</i>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:0d1117&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:0d1117&height=80&section=footer" width="100%"/>
+</picture>
+
+*Open to collaborations in macroeconomic research, forecasting, and educational content.*
+
+`juan.damico@forecastingeconomics.com` · `forecastingeconomics.com`
+
 </div>
