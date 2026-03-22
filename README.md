@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-# JUAN NICOLÁS D'AMICO
+# Juan Nicolas D'Amico
 
 <br/>
 
