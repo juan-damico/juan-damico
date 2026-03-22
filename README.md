@@ -29,11 +29,11 @@
 
 ## EDUCATION
 
-| Degree | Institution |
-|:---|:---|
-| B.Sc. Economics             | University of Buenos Aires (UBA) |
-| M.A. Business Economics     | Wilfrid Laurier University       |
-| M.A. Economics              | University of Waterloo           |
+| Degree                      | Institution                          | Country   |
+|:---------------------------|:-------------------------------------|:----------|
+| B.Sc. Economics            | University of Buenos Aires (UBA)      | Argentina |
+| M.A. Business Economics    | Wilfrid Laurier University           | Canada    |
+| M.A. Economics             | University of Waterloo               | Canada    |
 
 <br/>
 
