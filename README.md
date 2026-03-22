@@ -31,9 +31,9 @@
 
 | Degree | Institution |
 |:---|:---|
-| B.Sc. Economics | University of Buenos Aires (UBA) |
-| M.Sc. Business Economics | Wilfrid Laurier University |
-| M.Sc. Economics | University of Waterloo |
+| B.Sc. Economics             | University of Buenos Aires (UBA) |
+| M.A. Business Economics     | Wilfrid Laurier University       |
+| M.A. Economics              | University of Waterloo           |
 
 <br/>
 
