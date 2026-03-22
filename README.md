@@ -16,9 +16,9 @@
 
 | | |
 |:---|:---|
-| B.Sc. Economics | University of Buenos Aires (UBA) |
-| MA. Business Economics | Wilfrid Laurier University |
-| MA. Economics | University of Waterloo |
+| B.Sc. Economics | Universidad de Buenos Aires (UBA) |
+| Masters in Business Economics | Wilfrid Laurier University |
+| Masters in Economics | University of Waterloo |
 
 <br/>
 
@@ -26,26 +26,22 @@
 
 <br/>
 
----
-
-[🌐 forecastingeconomics.com](https://www.forecastingeconomics.com) &nbsp;·&nbsp;
-[▶ YouTube](https://www.youtube.com/@ForecastingEconomics) &nbsp;·&nbsp;
-[✍ Medium](https://medium.com/@juan.damico) &nbsp;·&nbsp;
-[◎ Google Scholar](https://scholar.google.com/citations?user=cuTdiWkAAAAJ&hl=en) &nbsp;·&nbsp;
-[📖 Udemy](https://www.udemy.com/course/introductory-course-to-dsge-models-in-matlab-dynare/?instructorPreviewMode=guest#instructor-1) &nbsp;·&nbsp;
-[✉ Email](mailto:juan.damico@forecastingeconomics.com)
-
----
+[![Website](https://img.shields.io/badge/forecastingeconomics.com-2c2c2c?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.forecastingeconomics.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ForecastingEconomics)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juan.damico)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=cuTdiWkAAAAJ&hl=en)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/introductory-course-to-dsge-models-in-matlab-dynare/?instructorPreviewMode=guest#instructor-1)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.damico@forecastingeconomics.com)
 
 </div>
 
-## About
+---
 
-I am an economist specializing in **macroeconomic analysis**, **forecasting**, and **DSGE modeling**. With graduate degrees from Wilfrid Laurier University and the University of Waterloo, I have extensive experience applying econometric and statistical methods to empirical macroeconomic questions.
+### About
 
-My work combines rigorous economic theory with applied quantitative tools — including **EViews**, **Stata**, **Python**, **R**, and **MATLAB/Dynare** — across forecasting, structural modeling, and empirical analysis. I am also deeply committed to economic education: as an online instructor, YouTuber, and writer, I aim to make complex macroeconomic concepts clear and accessible.
+I am an economist specializing in **macroeconomic analysis**, **forecasting**, and **DSGE modelling**. With graduate degrees from Wilfrid Laurier University and the University of Waterloo, I have extensive experience applying econometric and statistical methods to empirical macroeconomic questions.
 
-I currently work at **Statistics Canada** as an Economist. I also have experience in the private financial sector, having worked at **Sun Life Financial Services** for over four years. In addition, I have extensive teaching experience, having held multiple teaching assistant roles at the **University of Buenos Aires**, **Wilfrid Laurier University**, and the **University of Waterloo**.
+My work combines rigorous economic theory with applied quantitative tools — including EViews, Stata, Python, R, and MATLAB/Dynare — across forecasting, structural modelling, and empirical analysis. I am also deeply committed to economic education: as an online instructor, YouTuber, and writer, I work to make complex macroeconomic concepts clear and accessible.
 
 ---
 
