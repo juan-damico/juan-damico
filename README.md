@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/juan-damico" width="300" style="border-radius:50%;" alt="Juan D'Amico"/>
+<img src="https://avatars.githubusercontent.com/juan-damico" width="110" style="border-radius:50%;" alt="Juan D'Amico"/>
 
 <br/><br/>
 
@@ -43,11 +43,11 @@
 
 ## ABOUT
 
-I am an economist specializing in **macroeconomic analysis**, **forecasting**, and **DSGE modeling**. With graduate degrees from Wilfrid Laurier University and the University of Waterloo, I apply econometric and statistical methods to empirical macroeconomic questions across research, policy, and education.
+Juan is an economist specializing in **macroeconomic analysis**, **forecasting**, and **DSGE modeling**. With graduate degrees from Wilfrid Laurier University and the University of Waterloo, he applies econometric and statistical methods to empirical macroeconomic questions across research, policy, and education.
 
-My work combines rigorous economic theory with applied quantitative tools — **EViews**, **Stata**, **Python**, **R**, and **MATLAB/Dynare** — spanning forecasting, structural modeling, and empirical analysis.
+His work combines rigorous economic theory with applied quantitative tools — **EViews**, **Stata**, **Python**, **R**, and **MATLAB/Dynare** — spanning forecasting, structural modeling, and empirical analysis.
 
-I currently work as an Economist at **Statistics Canada**. Previously, I spent over four years at **Sun Life Financial Services** in the private financial sector. I have held multiple teaching assistant roles at the **University of Buenos Aires**, **Wilfrid Laurier University**, and the **University of Waterloo**.
+Since 2020, he has worked as an Economist at **Statistics Canada**. Prior to that, he spent three years at **Sun Life Financial Services** in the mutual funds industry. He has also held multiple teaching assistant roles at the **University of Buenos Aires**, **Wilfrid Laurier University**, and the **University of Waterloo**.
 
 <br/>
 
