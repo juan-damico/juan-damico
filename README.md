@@ -47,6 +47,7 @@ I currently work at **Statistics Canada** as an Economist. I also have experienc
 
 ---
 
+
 ### Research Interests
 
 ```
@@ -67,6 +68,15 @@ I currently work at **Statistics Canada** as an Economist. I also have experienc
 | MATLAB · Dynare | | |
 
 </div>
+
+---
+
+### EconLab with the Experts
+
+**EconLab with the Experts** is a webinar series focused on applied macroeconomics, forecasting, and empirical methods. Each episode features practical implementations, replication materials, and research-driven insights designed for students, researchers, and practitioners.
+
+👉 **Explore the series:**  
+**[EconLab with the Experts Repository](https://github.com/juan-damico/forecasting-economics/tree/main/EconLab-with-the-Experts)**
 
 ---
 
