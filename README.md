@@ -16,9 +16,9 @@
 
 | | |
 |:---|:---|
-| B.Sc. Economics | Universidad de Buenos Aires (UBA) |
-| M.Sc. Business Economics | Wilfrid Laurier University |
-| M.Sc. Economics | University of Waterloo |
+| B.Sc. Economics | University of Buenos Aires (UBA) |
+| MA. Business Economics | Wilfrid Laurier University |
+| MA. Economics | University of Waterloo |
 
 <br/>
 
@@ -39,11 +39,13 @@
 
 </div>
 
-### About
+## About
 
-I am an economist specializing in **macroeconomic analysis**, **forecasting**, and **DSGE modelling**. With graduate degrees from Wilfrid Laurier University and the University of Waterloo, I have extensive experience applying econometric and statistical methods to empirical macroeconomic questions.
+I am an economist specializing in **macroeconomic analysis**, **forecasting**, and **DSGE modeling**. With graduate degrees from Wilfrid Laurier University and the University of Waterloo, I have extensive experience applying econometric and statistical methods to empirical macroeconomic questions.
 
-My work combines rigorous economic theory with applied quantitative tools — including EViews, Stata, Python, R, and MATLAB/Dynare — across forecasting, structural modelling, and empirical analysis. I am also deeply committed to economic education: as an online instructor, YouTuber, and writer, I work to make complex macroeconomic concepts clear and accessible.
+My work combines rigorous economic theory with applied quantitative tools — including **EViews**, **Stata**, **Python**, **R**, and **MATLAB/Dynare** — across forecasting, structural modeling, and empirical analysis. I am also deeply committed to economic education: as an online instructor, YouTuber, and writer, I aim to make complex macroeconomic concepts clear and accessible.
+
+I currently work at **Statistics Canada** as an Economist. I also have experience in the private financial sector, having worked at **Sun Life Financial Services** for over four years. In addition, I have extensive teaching experience, having held multiple teaching assistant roles at the **University of Buenos Aires**, **Wilfrid Laurier University**, and the **University of Waterloo**.
 
 ---
 
