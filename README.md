@@ -1,19 +1,22 @@
 <!-- Header -->
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/juan-damico" width="150" style="border-radius: 50%;" alt="Juan D'Amico"/>
+
 # Juan D'Amico
 
-### Economist · Macroeconomic Forecasting · Applied Economics
+### Economist · Macroeconomic Forecasting · DSGE Models
 
 *M.Sc. Economics — University of Waterloo · M.Sc. Business Economics — Wilfrid Laurier University*
 
 <br>
 
+[![Website](https://img.shields.io/badge/Website-forecastingeconomics.com-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.forecastingeconomics.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Forecasting%20Economics-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ForecastingEconomics)
 [![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juan.damico)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=cuTdiWkAAAAJ&hl=en)
 [![Udemy](https://img.shields.io/badge/Udemy-DSGE%20Course-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/introductory-course-to-dsge-models-in-matlab-dynare/?instructorPreviewMode=guest#instructor-1)
 [![Email](https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:juan.damico@forecastingeconomics.com)
-[![Website](https://img.shields.io/badge/Website-forecastingeconomics.com-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.forecastingeconomics.com)
 
 </div>
 
@@ -61,13 +64,18 @@ I'm passionate about making complex economic concepts accessible — through onl
 
 ### 📺 YouTube — Forecasting Economics
 > Educational videos on macroeconomic forecasting, econometrics, and applied economic modelling.
-> 
+>
 > ▶️ [youtube.com/@ForecastingEconomics](https://www.youtube.com/@ForecastingEconomics)
 
 ### ✍️ Medium — Articles
 > Written pieces on economics, forecasting methods, and quantitative analysis.
 >
 > 📖 [medium.com/@juan.damico](https://medium.com/@juan.damico)
+
+### 🎓 Google Scholar
+> Academic publications and research citations.
+>
+> 📖 [Juan Nicolás D'Amico — Google Scholar](https://scholar.google.com/citations?user=cuTdiWkAAAAJ&hl=en)
 
 ---
 
@@ -84,6 +92,7 @@ Applied econometrics, forecasting, and EconLab with the Experts webinar series.
 - 📧 **Email:** [juan.damico@forecastingeconomics.com](mailto:juan.damico@forecastingeconomics.com)
 - 📺 **YouTube:** [Forecasting Economics](https://www.youtube.com/@ForecastingEconomics)
 - ✍️ **Medium:** [Juan D'Amico](https://medium.com/@juan.damico)
+- 🎓 **Google Scholar:** [Juan Nicolás D'Amico](https://scholar.google.com/citations?user=cuTdiWkAAAAJ&hl=en)
 
 ---
 
