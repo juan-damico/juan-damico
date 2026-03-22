@@ -16,7 +16,7 @@
 
 | | |
 |:---|:---|
-| B.Sc. Economics | Universidad de Buenos Aires (UBA) |
+| B.Sc. Economics | University of Buenos Aires (UBA) |
 | Masters in Business Economics | Wilfrid Laurier University |
 | Masters in Economics | University of Waterloo |
 
