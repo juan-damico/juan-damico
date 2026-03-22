@@ -71,13 +71,9 @@ I currently work at **Statistics Canada** as an Economist. I also have experienc
 
 ---
 
-### EconLab with the Experts
-
-**EconLab with the Experts** is a webinar series focused on applied macroeconomics, forecasting, and empirical methods. Each episode features practical implementations, replication materials, and research-driven insights designed for students, researchers, and practitioners.
-
-👉 **Explore the series:**  
-**[EconLab with the Experts Repository](https://github.com/juan-damico/forecasting-economics/tree/main/EconLab-with-the-Experts)**
-
+**[EconLab with the Experts](https://github.com/juan-damico/forecasting-economics/tree/main/EconLab-with-the-Experts)** — Webinar Series
+> A live seminar series bringing together PhD economists, researchers, and practitioners to bridge the gap between academic theory and real-world applied economics. Each session features hands-on demonstrations using actual data and methods — the kind rarely taught in university classrooms.
+ 
 ---
 
 ### GitHub Activity
